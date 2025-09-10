@@ -5,7 +5,7 @@ Na aula introdutória acompanhamos os fundamentos da certificação AZ-900, que 
 Tivemos uma visão geral dos tópicos ao longo do curso
 - o que é computação em nuvem
 - tipos de serviçosem nuvem
-- egurança e privacidade na nuvem
+- segurança e privacidade na nuvem
 
   Na introdução a computaçãõ em nuvem aprendemos seu conceito: fornecimentos de serviços de computação pela internet
 
